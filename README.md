@@ -1,4 +1,4 @@
-# BASIC_API_ONLY
+# user-fact-api
 
 About your application's environment:
 
